@@ -1,0 +1,27 @@
+foot_speed = (y_finish - y_start) / (t_finish - t_start)
+                y is the axis of where the foot is when touching the ground
+                    t is the time it started touching the ground and when it left the ground
+
+
+Start is 0.28 for jog
+Finish is 0.45 for jog
+
+Start for Walk is 0.16 and y = 17.088177
+Finish for Walk is 0.30 and y = -28.421715
+
+Foot travels -45.509892 over 0.14 sec
+-45.509892/0.14 = -325.0706571428571 which tells us we travel at 325 centimeters per second.
+
+
+Walk
+Start is 0.28 for Walk
+Finish is 0.45 for Walk
+
+0.34
+20.976902
+0.67
+-22.001398
+
+-42.9783 / 0.33 = -130.2372727272727 so 130 centimeters per sec.
+
+going to round up or down to the nearest 50 so 350 and 150
